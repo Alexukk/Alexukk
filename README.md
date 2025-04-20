@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Alexukk
-- 👀 I’m interested in Phyton, Js, Java
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on I'm not smart enough yet(
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm 15
+- 👀 I’m interested in Phyton and Js
+- 🌱 I’m currently learning Phyton, js
+- 💞️ I’m looking to collaborate on 
+- 😄 Pronouns: whatever you can think of
+- ⚡ Fun fact: I'm 16
 
 <!---
 Alexukk/Alexukk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
