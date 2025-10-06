@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alexukk
-- 👀 I’m interested in CyberSec. 
-- 🌱 I’m currently learning Phyton, C, Penatration testing
+- 👀 I’m interested in CyberSec, prod projects developing
+- 🌱 I’m currently learning Phyton, Java
 - 💞️ I’m looking to collaborate on 
-- 😄 Pronouns: whatever you can think of
-
+- 💻 Skills in Phyton(Flask, telebot, aiogram) Java(actively learning)
 
