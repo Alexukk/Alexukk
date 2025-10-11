@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexukk
-- 👀 I’m interested in CyberSec, prod projects developing
-- 🌱 I’m currently learning Phyton, Java
+- 👀 I’m interested in CyberSec, Web, mobile projects developing
+- 🌱 Working with Python(Flask, PyTelegramBotAPI, aiogram), Java, a bit of JS
 - 💞️ I’m looking to collaborate on 
-- 💻 Skills in Phyton(Flask, telebot, aiogram) Java(actively learning)
+
 
