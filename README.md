@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alexukk
+- 👋 Hi, I’m @Alexukk, self-educated developer
 - 👀 I’m interested in CyberSec, Web, Descktop, low level systems engineering and developing
-- 🌱 Working with Python(Flask, PyTelegramBotAPI, aiogram), Java, C#(.NET), JS
+- 🌱 Working with Python(Flask, PyTelegramBotAPI, aiogram), Java, C#(.NET), JS/HTML/CSS/BOOTSTRAP
 - 🏗️ My Projects:
 -   🛒 E-commerce web app for handmade goods(Telegram API integrated) deployed: https://diordievcrafts.pythonanywhere.com/
 -   ⚖️ Online platform for legal Consultations(Stripe API integrated) deployed demo: https://alexukkker.pythonanywhere.com/
