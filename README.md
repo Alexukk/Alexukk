@@ -1,13 +1,22 @@
-- 👋 Hi, I’m @Alexukk, self-educated developer
-- 👀 I’m interested in CyberSec, Web, Descktop, low level systems engineering and developing
-- 🌱 Working with Python(Flask, PyTelegramBotAPI, aiogram), Java, C#(.NET), JS/HTML/CSS/BOOTSTRAP
-- 🏗️ My Projects:
--   🛒 E-commerce web app for handmade goods(Telegram API integrated) deployed: https://diordievcrafts.pythonanywhere.com/
--   ⚖️ Online platform for legal Consultations(Stripe API integrated) deployed demo: https://alexukkker.pythonanywhere.com/
-- 🪛 Educational SpyWare usinf Telegram api: Console access through telegram app.
-- 📟 CLI Joke app (C#) simulating hacking process which went wrong.
-   
--  🌐I’m looking to collaborate on
--  📡Reach me via email: [alexukrok@gmail.com] or telegram @Sasho0ok
+👋 Hi, I’m @Alexukk — a self-taught developer
+
+👀 I’m interested in Cybersecurity, Web & Desktop development, low-level systems engineering, and tooling
+
+🌱 Currently working with Python (Flask, PyTelegramBotAPI, aiogram), Java, C# (.NET), JavaScript / HTML / CSS / Bootstrap
+
+🏗️ My projects:
+
+🛒 E-commerce web app for handmade goods (Telegram API integrated). Deployed: https://diordievcrafts.pythonanywhere.com/
+
+⚖️ Online platform for legal consultations (Stripe API integrated). Demo deployed: https://alexukkker.pythonanywhere.com/
+
+🪛 Educational remote-access / security research tool using the Telegram API — console access via Telegram (for authorized, ethical research and learning only).
+
+📟 CLI joke app (C#) — a harmless simulation of a “hacking” process that intentionally goes wrong.
+
+🌐 I’m open to collaboration on web and systems projects.
+
+📡 Reach me via email: alexukrok@gmail.com
+ or on Telegram: @Sasho0ok
 
 
