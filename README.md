@@ -12,7 +12,9 @@
 
 🪛 Educational remote-access / security research tool using the Telegram API — console access via Telegram (for authorized, ethical research and learning only).
 
-📟 CLI apps (C#) — a harmless simulation of a “hacking” process that intentionally goes wrong, PACMAN game.
+📟 CLI apps (C#) —  PACMAN game.
+
+💻 RESTful Web API (ASP.NET Core) using DTOs.
 
 🌐 I’m open to collaboration on web and systems projects.
 
