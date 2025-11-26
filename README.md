@@ -14,9 +14,9 @@
 
 📟 CLI apps (C#) —  PACMAN game.
 
-💻 RESTful Web API (ASP.NET Core) using DTOs.
+💻 RESTful Web API (ASP.NET Core 9 (С#)) utilizing Clean Architecture (DTOs, Service Layer), and data persistence via Entity Framework Core
 
-🌐 I’m open to collaboration on web and systems projects.
+💻 I’m open to collaboration on web and systems projects.
 
 📡 Reach me via email: alexukrok@gmail.com
  or on Telegram: @Sasho0ok
