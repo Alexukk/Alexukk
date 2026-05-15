@@ -1,8 +1,8 @@
 👋 Hi, I’m @Alexukk — a self-taught developer
 
-👀 I’m interested in Cybersecurity, Web & Desktop development, low-level systems engineering, and tooling
+👀 I’m interested in Cybersecurity, Web & Desktop developmen, low-level systems engineering, and tooling
 
-🌱 Currently working with Python (Flask, PyTelegramBotAPI, aiogram), Java, C# (.NET), JavaScript / HTML / CSS / Bootstrap
+🌱 Currently working with Python (FastApi, Flask, PyTelegramBotAPI, aiogram), Java, C# (ASP.NET), JavaScript / HTML / CSS / Bootstrap
 
 🏗️ My projects:
 
@@ -16,9 +16,11 @@
 
 💻 RESTful Web API (ASP.NET Core 9 (С#)) utilizing Clean Architecture (DTOs, Service Layer), and data persistence via Entity Framework Core
 
+🤖 AI-powered telegram bot which provides adjusted trainings and music suggestions based on preference and user profile.
+
 💻 I’m open to collaboration on web and systems projects.
 
 📡 Reach me via email: alexukrok@gmail.com
- or on Telegram: @Sasho0ok
+ or via Telegram: @Sasho0ok
 
 
